@@ -76,7 +76,7 @@ To run the backend, you need to create a .env file in the /backend directory.
 PORT=5000
 
 # Your MongoDB connection string from Atlas
-MONGO_URI=mongodb+srv://palaksh1509:Palaksh1020@cluster0.3nrayvd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI
 
 # API Documentation
 All private routes require a Bearer <token> in the Authorization header.
